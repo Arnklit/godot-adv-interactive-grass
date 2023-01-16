@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/simple-terrain.obj-3fe782fe40995ce1f5315fe1508595a8.mesh"
+
+[deps]
+
+files=[ "res://.import/simple-terrain.obj-3fe782fe40995ce1f5315fe1508595a8.mesh" ]
+
+source_file="res://simple-terrain.obj"
+dest_files=[ "res://.import/simple-terrain.obj-3fe782fe40995ce1f5315fe1508595a8.mesh", "res://.import/simple-terrain.obj-3fe782fe40995ce1f5315fe1508595a8.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286
