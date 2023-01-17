@@ -7,3 +7,5 @@ This is an attempt at a more complex system for interactive grass. Where many en
 The implementation is based mostly on this GDC talk about God of War's grass system (the part about interactive vegetation). https://youtu.be/MKX45_riWQA
 
 This is still pretty rough, it mostly shows the idea of the system.
+
+* NOTE: This implementation Samples the viewport shader inside itself, which can cause undefined behaviour. This is not the correct way of doing this and should be changed. I'll see about changing this at some point.
